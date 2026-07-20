@@ -32,7 +32,7 @@ public class Moto : Vehiculo
 
     public void HacerCaballito()
     {
-        Console.WriteLine($"{Marca} {Modelo}: ¡haciendo caballito!");
+        Console.WriteLine($"{Marca} {Modelo}");
     }
 }
 
